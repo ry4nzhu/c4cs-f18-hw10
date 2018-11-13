@@ -1,1 +1,4 @@
-/home/ry4n/.ssh/config
+Host caen login.engin.umich.edu
+	HostName login.engin.umich.edu
+	User ryanzhu
+
